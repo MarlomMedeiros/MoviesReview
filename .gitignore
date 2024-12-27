@@ -1,0 +1,42 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyd
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# FastAPI
+*.fastapi
+
+# Pytest
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Caches
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
